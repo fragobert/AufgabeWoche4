@@ -1,2 +1,4 @@
-package Zoo.Saugetier;public class Saugetier {
+package Zoo.Saugetier;
+
+public class Saugetier {
 }
