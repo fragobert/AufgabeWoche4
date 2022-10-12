@@ -7,7 +7,7 @@ public class Fisch extends Tier {
     protected Fisch(String name, String color) {
         super(name, color);
     }
-     public final void makeSound() {
+    public final void makeSound() {
         System.out.println(this + ": Blub!");
     }
     public void eat(int gramm) {

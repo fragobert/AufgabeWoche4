@@ -13,6 +13,8 @@ public class Hai extends Fisch {
         System.out.println(this + ": Ich jage jetzt " + f + "!");
         if (Math.random() > ((double)1 / 3)) {
             System.out.println(this + ": Ich habe " + f + " gefressen!");
+        }else{
+            System.out.println(this + ": Ich habe " + f + " nicht gefressen!");
         }
     }
 }
